@@ -1,4 +1,4 @@
-/* Viet Pham — Professional Portfolio */
+/* William Pham — Professional Portfolio */
 
 :root {
     --color-bg: #fafbfc;
@@ -428,6 +428,15 @@ ul { list-style: none; }
 .timeline__location {
     font-size: 0.8rem;
     color: var(--color-text-muted);
+}
+
+.timeline__badge {
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: #fff;
+    background: var(--color-accent);
+    padding: 4px 10px;
+    border-radius: 20px;
 }
 
 .timeline__company {
