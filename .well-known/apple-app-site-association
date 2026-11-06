@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["68FFZ78A85.ai.vietlunar.app"],
+        "components": [
+          { "/": "/vietlunar-site/nhap", "comment": "Shared giỗ list (Lịch Âm)" },
+          { "/": "/vietlunar-site/nhap/*", "comment": "Shared giỗ list (Lịch Âm)" }
+        ]
+      }
+    ]
+  }
+}
